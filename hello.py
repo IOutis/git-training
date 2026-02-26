@@ -1,1 +1,2 @@
-print("This is a conflict test")
+for i in range(5):
+    print(i," -  Conflict")
