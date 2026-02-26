@@ -1,1 +1,1 @@
-"Line 1: The main branch changed this instead." 
+"Line 1: The merge coflict is resolved." 
